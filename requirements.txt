@@ -1,0 +1,8 @@
+numpy==1.13.3
+scipy==1.0.0
+scikit-learn
+requests==2.18.4
+pandas==0.20.3
+Flask==0.12.2
+gunicorn==19.6.0
+dateparser
